@@ -4,3 +4,4 @@
 *   *Include working demo in Colab, in which you clearly demonstrate your results. Please refer to the Implementation section on the [labs website](https://su2.utia.cas.cz/labs.html#projects).*
 *   *Do not upload huge datasets to GitHub repository.*
 
+Our Colab notebook can be found here: https://github.com/paletvoj/01SU2/blob/main/SU2_Final_Student_Project_2025.ipynb
